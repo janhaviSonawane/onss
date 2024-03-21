@@ -1,5 +1,16 @@
 # onss
-How to run the Online Notes Sharing System Project using PHP and MySQL
+
+“Online Notes Sharing System Project” is a web based technology that manages user and notes database and provides rights to update their details and notes. In this web application user must be registered. Online Notes Sharing management System Project web application provides a way to effectively control record & track the user details who himself/herself registered with us.
+
+Project Requirements
+Project Name	        : Online Notes Sharing management System Project in PHP
+Language Used	        : PHP5.6, PHP7.x
+Database	            : MySQL 5.x
+User Interface Design :	HTML, AJAX,JQUERY,JAVASCRIPT
+Web Browser	          : Mozilla, Google Chrome, IE8, OPERA
+Software	            : XAMPP / Wamp / Mamp/ Lamp (anyone)
+
+**How to run the Online Notes Sharing System Project using PHP and MySQL**
 
 1. Download the project zip file
 
