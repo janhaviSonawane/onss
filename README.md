@@ -17,7 +17,7 @@ How to run the Online Notes Sharing System Project using PHP and MySQL
 
 Credential for Employee/User panel :
 
-Username: john12@gmail.com
+Username: janhavi1015@icloud.com
 Password: Test@123
 
 or Register a new user.
